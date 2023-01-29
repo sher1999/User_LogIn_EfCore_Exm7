@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql" Version="7.0.1" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Services\ClassroomService.cs" />
+    <Compile Remove="Services\ClassroomStudentService.cs" />
+    <Compile Remove="Services\ExamService.cs" />
+    <Compile Remove="Services\AttendanceService.cs" />
+    <Compile Remove="Services\AttendanceTeacherService.cs" />
+    <Compile Remove="Services\ResultService.cs" />
+    <Compile Remove="Services\IssuesService.cs" />
+    <Compile Remove="Services\StudentService.cs" />
+    <Compile Remove="Services\SubjectService.cs" />
+    <Compile Remove="Services\TeacherService.cs" />
+    <Compile Remove="Services\TimeTableService.cs" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>

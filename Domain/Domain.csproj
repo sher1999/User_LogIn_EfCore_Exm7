@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Dtos\GetTimeTableDto.cs" />
+    <Compile Remove="Dtos\GetTeacherDto.cs" />
+    <Compile Remove="Dtos\GetSubjectDto.cs" />
+    <Compile Remove="Dtos\GetStudentDto.cs" />
+    <Compile Remove="Dtos\GetResultDto.cs" />
+    <Compile Remove="Dtos\GetIssuesDto.cs" />
+    <Compile Remove="Dtos\GetExamDto.cs" />
+    <Compile Remove="Dtos\GetClassroomStudentDto.cs" />
+    <Compile Remove="Dtos\GetClassroomDto.cs" />
+    <Compile Remove="Dtos\GetAttendanceTeacherDto.cs" />
+    <Compile Remove="Dtos\GetAttendanceDto.cs" />
+    <Compile Remove="Dtos\AddTimeTableDto.cs" />
+    <Compile Remove="Dtos\AddTeacherDto.cs" />
+    <Compile Remove="Dtos\AddSubjectDto.cs" />
+    <Compile Remove="Dtos\AddStudentDto.cs" />
+    <Compile Remove="Dtos\AddResultDto.cs" />
+    <Compile Remove="Dtos\AddIssuesDto.cs" />
+    <Compile Remove="Dtos\AddExamDto.cs" />
+    <Compile Remove="Dtos\AddClassroomStudentDto.cs" />
+    <Compile Remove="Dtos\AddClassroomDto.cs" />
+    <Compile Remove="Dtos\AddAttendanceTeacherDto.cs" />
+    <Compile Remove="Dtos\AddAttendanceDto.cs" />
+    <Compile Remove="Entities\AttendanceStudent.cs" />
+    <Compile Remove="Entities\ClassromStudent.cs" />
+    <Compile Remove="Entities\AttendanceTeacher.cs" />
+    <Compile Remove="Entities\Classroom.cs" />
+    <Compile Remove="Entities\Exam.cs" />
+    <Compile Remove="Entities\Issues.cs" />
+    <Compile Remove="Entities\Result.cs" />
+    <Compile Remove="Entities\Student.cs" />
+    <Compile Remove="Entities\Subject.cs" />
+    <Compile Remove="Entities\Teacher.cs" />
+    <Compile Remove="Entities\TimeTable.cs" />
+  </ItemGroup>
+</Project>

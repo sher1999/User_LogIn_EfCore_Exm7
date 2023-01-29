@@ -1,0 +1,153 @@
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week6\Exam6\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week6\Exam6\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week6\Exam6\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\Exam6\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\Exam6\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\Exam6\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week6\Exam6\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\coftclub\C#\week7\Exam7\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\coftclub\C#\week7\Exam7\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\coftclub\C#\week7\Exam7\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\Exam7\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\Exam7\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\Exam7\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\coftclub\C#\week7\Exam7\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -1,0 +1,436 @@
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week6\16.01.23\HOME TASK EF FRAMEWORK\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week6\17.01.23\Новая папка\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week6\19.01.23\RealHomeWork\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week6\Exam6\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week6\Exam6\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week7\23.01.23\CLassWork\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week7\24.01.23\homeWork1\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\AutoMapper.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week7\25.01.23\ClassWork\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\AutoMapper.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week7\26.01.23\HomeWork\WepApi\obj\Debug\net7.0\ref\WepApi.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\appsettings.Development.json
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\appsettings.json
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\WepApi.exe
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\WepApi.deps.json
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\WepApi.runtimeconfig.json
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\AutoMapper.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Dapper.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Humanizer.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Npgsql.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Infrastructure.dll
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Infrastructure.pdb
+D:\coftclub\C#\week7\Exam7\WepApi\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.csproj.AssemblyReference.cache
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfoInputs.cache
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.AssemblyInfo.cs
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cs
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.MvcApplicationPartsAssemblyInfo.cache
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.WepApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WepApi.props
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WepApi.props
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WepApi.props
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\scopedcss\bundle\WepApi.styles.css
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.csproj.CopyComplete
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.dll
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\refint\WepApi.dll
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.pdb
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\WepApi.genruntimeconfig.cache
+D:\coftclub\C#\week7\Exam7\WepApi\obj\Debug\net7.0\ref\WepApi.dll

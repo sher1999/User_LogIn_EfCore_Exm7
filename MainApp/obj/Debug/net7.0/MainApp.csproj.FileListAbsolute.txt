@@ -1,0 +1,5 @@
+D:\coftclub\C#\week6\Exam6\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\Exam6\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\Exam6\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\Exam6\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+D:\coftclub\C#\week6\Exam6\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
